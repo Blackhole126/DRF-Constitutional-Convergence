@@ -1,0 +1,33 @@
+{
+  "project": "Distributed Relay Framework",
+  "acronym": "DRF",
+  "type": "constitutional convergence package",
+  "source_population": "BHIV Engineering Exchange",
+  "confirmed_participants": [
+    "SHAKTI",
+    "Capability Registry Foundation",
+    "Canonical Capability Convergence",
+    "SVACS Unified Core",
+    "MASTERDB Ingestion Certification Service",
+    "UniGuru"
+  ],
+  "provisional_participants": [
+    "PARIKSHAN",
+    "Pravah",
+    "Bucket"
+  ],
+  "required_deliverables": [
+    "Runtime Identity Cards",
+    "Constitutional Authority Matrix",
+    "Runtime Participation Map",
+    "Registry Participation Matrix",
+    "Runtime Contract Documentation",
+    "Adjacent Layer Dependency Map",
+    "Replay & Evidence Model",
+    "Observability Model",
+    "Knowledge Contribution Documentation",
+    "Runtime Convergence Report",
+    "REVIEW_PACKET.md"
+  ],
+  "evidence_policy": "Do not invent undocumented interfaces or authority; mark unresolved items TBD."
+}

@@ -1,0 +1,37 @@
+{
+  "phase": "2",
+  "artifact": "DRF Constitutional Convergence",
+  "files_scanned": 27,
+  "required_deliverables": [
+    "Runtime Identity Cards",
+    "Constitutional Authority Matrix",
+    "Runtime Participation Map",
+    "Registry Participation Matrix",
+    "Runtime Contract Documentation",
+    "Adjacent Layer Dependency Map",
+    "Replay & Evidence Model",
+    "Observability Model",
+    "Knowledge Contribution Documentation",
+    "Runtime Convergence Report",
+    "REVIEW_PACKET.md"
+  ],
+  "checks": {
+    "Runtime Identity Cards": true,
+    "Constitutional Authority Matrix": true,
+    "Runtime Participation Map": true,
+    "Registry Participation Matrix": true,
+    "Runtime Contract Documentation": true,
+    "Adjacent Layer Dependency Map": true,
+    "Replay & Evidence Model": true,
+    "Observability Model": true,
+    "Knowledge Contribution Documentation": true,
+    "Runtime Convergence Report": true,
+    "REVIEW_PACKET.md": true,
+    "evidence_policy_present": true,
+    "tbd_policy_documented": true,
+    "no_credentials_committed": true
+  },
+  "passed": true,
+  "source_commit": null,
+  "content_digest": "e41d729ef7a9068e0c1753027ec33504f7e45c8fe97abac5cf96f6cdb59a81fa"
+}

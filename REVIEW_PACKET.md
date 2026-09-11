@@ -209,7 +209,7 @@ Integration with another layer does not create additional constitutional authori
 Runtime Identity Cards are provided in:
 
 ```text
-docs/identity/RUNTIME_IDENTITY_CARDS.md
+docs/runtime-identity/RUNTIME_IDENTITY_CARDS.md
 ```
 
 The cards define:
@@ -229,7 +229,7 @@ The cards define:
 Authority boundaries are documented in:
 
 ```text
-docs/authority/CONSTITUTIONAL_AUTHORITY_MATRIX.md
+docs/runtime-identity/CONSTITUTIONAL_AUTHORITY_MATRIX.md
 ```
 
 The matrix prevents overlapping authority between:
@@ -279,7 +279,7 @@ Supporting registries and capabilities attach to their appropriate constitutiona
 The complete ecosystem participation map is provided in:
 
 ```text
-docs/architecture/RUNTIME_PARTICIPATION_MAP.md
+docs/ecosystem-positioning/RUNTIME_PARTICIPATION_MAP.md
 ```
 
 It establishes the relationship between:
@@ -301,7 +301,7 @@ It establishes the relationship between:
 Runtime contracts are documented in:
 
 ```text
-docs/contracts/RUNTIME_CONTRACT_DOCUMENTATION.md
+docs/runtime-contracts/RUNTIME_CONTRACTS.md
 ```
 
 The contract model covers:
@@ -839,3 +839,6 @@ ________________________________________________________________
 **End of REVIEW_PACKET.md**
 
 ```
+
+## Phase 2 Hardening
+See `docs/PHASE2_PRODUCTION_READINESS.md` and `evidence/phase2/PHASE2_VERIFICATION_SUMMARY.md`. Run `python scripts/phase2_metadata_validator.py` to regenerate the deterministic metadata/contract evidence.
